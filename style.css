@@ -1,0 +1,124 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.top-banar {
+    height: 670px;
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.top-degine {
+    padding: 174px 307px;
+}
+
+.top-degine h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.top-degine p {
+    color: white;
+}
+
+.buton-d {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.to-do-b {
+    text-align: center;
+}
+
+.to-do-b h3 {
+    font-size: 45px;
+}
+
+.dis-f {
+    display: flex;
+    width: 60px;
+    height: 50px;
+    margin-left: 450px;
+}
+
+.taka {
+    margin: 10px 10px;
+    padding: 5px;
+    width: 200px;
+}
+
+.red-d {
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+.plan {
+    text-align: center;
+
+}
+
+.plan h3 {
+    font-size: 40px;
+}
+
+.blog-con-ar {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.colam {
+    width: 360px;
+    height: 200px;
+    padding: 20px;
+}
+
+.color-g {
+    background-color: antiquewhite;
+}
+
+.blog-img-art {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.hafe-with {
+    width: 50%;
+}
+
+.hafe-with img {
+    width: 400px;
+    height: 250px;
+    margin-left: 100px;
+}
+
+.footer-d {
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.footer-d span {
+    color: tomato;
+}
+
+.footer-d h3 {
+    font-size: 30px;
+}
+
+.form-d {
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: aqua;
+    margin-top: 20px;
+}
